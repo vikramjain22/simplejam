@@ -1,0 +1,1 @@
+# The most basic JAMstack demo site created on 24-July-2024, while learning from udemy course and following the instructions.
